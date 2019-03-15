@@ -1,0 +1,3 @@
+﻿  Torus.cpp
+c:\users\kamil\onedrive\pulpit\na gita\torus\torus\torus.cpp(203): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Torus.vcxproj -> C:\Users\kamil\OneDrive\Pulpit\NA GITA\Torus\Debug\Torus.exe
